@@ -24,7 +24,7 @@ Survey focused on below topics:
 * Methodology: Feedback on survey.
 
 ### Project questions:
-1. Where do the responders with th highest mean salaries work and hwo does it compare to cost of living in these countries?
+1. Where do the responders with th highest mean salaries work and how does it compare to cost of living in these countries?
 2. What type of work is the best paied job? Also does the education level impacts the salary or not?
 3. What tools and languages are mostly used by the reposnders?
 
@@ -42,7 +42,7 @@ File containing all the survey-2022 questions
 File containing cost of living data
 
 ## Python libraries used
-pandas,numpy, matplotlib, plotly, BeautifulSoup
+pandas,numpy, matplotlib, plotly, seaborn, BeautifulSoup
 
 ### Medium Blog Post
-Here is the Medium blog post I have written: 
+Here is the Medium blog post I have written: https://medium.com/@martomkiewicz/how-to-leverage-the-stack-overflow-2022-survey-for-your-own-benefit-as-a-developer-5179f3a34f09
